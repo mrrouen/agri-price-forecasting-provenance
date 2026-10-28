@@ -1,0 +1,4 @@
+"Commodity","Horizon_h1_MAE","Horizon_h2_MAE","Horizon_h4_MAE","Baseline_Selected"
+"Regular Milled Rice",1.55,2.94,5.38,"Naive"
+"Red Onions",12.4,18.5,25.1,"Naive"
+"Tomatoes",8.2,11.4,16.8,"ARIMA"
